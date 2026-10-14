@@ -42,9 +42,9 @@ read_source ×3 → write_todos → 起草 → save_report → read_report
 
 运行证据截图：
 
-![read_report 工具执行中](../images/read_report-执行中.png)
+![read_report 工具执行中](images/read_report-执行中.png)
 
-![count_words 最终结果](../images/count_words-最终结果.png)
+![count_words 最终结果](images/count_words-最终结果.png)
 
 ## 4. 请求 → 执行 → 返回
 

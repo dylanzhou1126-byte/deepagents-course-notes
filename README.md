@@ -5,10 +5,8 @@
 
 ## 目录
 
-- [Task01 我的第一个工具 Agent：把"模型提议"变成"真实执行"](notes/2026-10-14-task01-我的第一个工具Agent.md)
-- [Task01 打卡文案：验证/改动/结果/证据/下一步](notes/2026-10-14-task01-打卡文案.md)
-- [Task01 报告样例：Agent 自主生成的博客报告](notes/2026-10-14-task01-报告样例.md)
-- [Task00 环境准备与 AgentSeek 主模板：把"缺的依赖"装齐、把"模板"跑起来](notes/2026-10-14-task00-环境准备与AgentSeek.md)
+- [Task01 我的第一个工具 Agent：把"模型提议"变成"真实执行"](task01-我的第一个工具Agent/)
+- [Task00 环境准备与 AgentSeek 主模板：把"缺的依赖"装齐、把"模板"跑起来](task00-环境准备与AgentSeek/)
 
 ## 学习进度
 
